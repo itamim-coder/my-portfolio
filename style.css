@@ -1,0 +1,79 @@
+body{
+    background-color:rgb(30, 39, 78);
+    margin: 0%;
+    color: cyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
+h1{
+    font-size: 300%;
+}
+h2{
+    font-size: 250%;
+}
+.head{
+    display: flex;
+    width: 100%;
+
+  
+    background-repeat: no-repeat;
+    margin-bottom: 17%;
+}
+.half-box{
+    width: 50%;
+    margin-left: 5%;
+}
+.half-box img{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 30px;
+}
+.orange{
+    color: orange;
+}
+.hire-me-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 15px;
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+}
+.about-me{
+    display: flex;
+    width: 100%;
+    margin-bottom: 17%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+
+}
+.experience{
+    display: flex;
+    width: 100%;
+    margin-bottom: 10%;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    
+    
+}
+.full-stack-box{
+    width: 50%;
+    box-shadow: 10px 15px 40px gray;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-left: 5px solid;
+    border-image: linear-gradient(rgb(1, 255, 1), rgb(255, 38, 0));
+    border-image-slice: 1;
+}
+.baby-web-box{
+    width: 50%;
+    box-shadow: 10px 15px 40px gray;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-left: 5px solid;
+    border-image: linear-gradient(yellow, rgb(103, 103, 233));
+    border-image-slice: 1;
+}
+
