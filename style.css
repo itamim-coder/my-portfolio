@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(30, 39, 78);
+    background-color:rgb(58, 70, 58);
     margin: 0%;
     color: cyan;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
@@ -76,4 +76,6 @@ h2{
     border-image: linear-gradient(yellow, rgb(103, 103, 233));
     border-image-slice: 1;
 }
-
+footer{
+    text-align: center;
+}
