@@ -79,3 +79,11 @@ h2{
 footer{
     text-align: center;
 }
+.exp{
+    text-align: center;
+    border-bottom: 3px solid wheat;
+    margin-bottom: 7%;
+    margin-right: 40%;
+    margin-left: 40%;
+    
+}
